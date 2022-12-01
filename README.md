@@ -1,7 +1,5 @@
 # AboutMe
-This is a section about me and my contact details.
-
-## Aloha! Hello Amazing World! Call me Kat!  
+## Aloha! Hello Amazing World! The name is Kathleen Juban :)  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kathleenjuban.kathleenjuban)
 
