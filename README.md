@@ -4,7 +4,7 @@
 
 
 
-<img height="40%" width="60%" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" alt="Kat Happy Coding">
+<img height="30%" width="80%" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif" alt="Kat Happy Coding">
 
 <br/>
 
