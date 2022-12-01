@@ -1,23 +1,25 @@
-# AboutMe
-## Aloha! Hello Amazing World! The name is Kathleen Juban :)  
+## Aloha! 
+## Hello World! The name is Kathleen Juban.  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kathleenjuban.kathleenjuban)
 
 <img height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-<img width="80%" src="https://vsgif.com/gif/3195667](https://i.gifer.com/fetch/w300-preview/bc/bca56ffe4a6e2910237482982aa856fe.gif" alt="Kat Coding All Day">
+<img width="80%" src="https://komarev.com/ghpvc/?username=khushali452" alt="Kat Coding All Day">
 
 <br/>
 
 ## About Me
 
-🔭 Graduating IT Programmer-Analyst Student at NBCC
-<br/>⚡ Certified Information Systems Auditor (CISA)
+🔭 Graduating IT Programming Analyst Student at NBCC
+<br/> ⚡ Certified Information Systems Auditor (CISA)
 <br/>🌍 Saint John, New Brunswick, Canada
 <br/>🌱 "Never lose the sense of wonder."
 <br/>🧱 INTP
-<br/>🎵 Coldplay | Yurima | Worship. Acoustic. Pop. Mellow Rock.
-<br/>📫 Reach me at <a href="https://www.linkedin.com/in/kathleenjuban" alt="My Linkedin Profile">Linkedin</a>.
+<br/> :superhero_man: I compete with myself.
+<br/> :sparkling_heart: Coldplay | Taylor Swift
+<br/>🎵 Worship | Yurima | Acoustic | Pop | Mellow Rock.
+<br/>📫 Reach me at <a href="https://www.linkedin.com/in/kathleenjuban" alt="My Linkedin Profile"> Linkedin </a>.
 
 
 <br/>
