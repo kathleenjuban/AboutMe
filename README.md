@@ -14,7 +14,7 @@ This is a section about me and my contact details.
 ## About Me
 
 🔭 Graduating IT Programming Analyst Student at NBCC
-⚡ Certified Information Systems Auditor (CISA)
+<br/>⚡ Certified Information Systems Auditor (CISA)
 <br/>🌍 Saint John, New Brunswick, Canada
 <br/>🌱 "Never lose the sense of wonder."
 <br/>🧱 INTP
