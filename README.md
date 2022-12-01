@@ -19,7 +19,7 @@ This is a section about me and my contact details.
 <br/>🌱 "Never lose the sense of wonder."
 <br/>🧱 INTP
 <br/>🎵 Coldplay | Yurima | Worship. Acoustic. Pop. Mellow Rock.
-<br/>📫 Reach me at <a href="https://www.linkedin.com/in/kathleenjuban" alt="My Linkedin Profile">.
+<br/>📫 Reach me at <a href="https://www.linkedin.com/in/kathleenjuban" alt="My Linkedin Profile">Linkedin</a>.
 
 
 <br/>
