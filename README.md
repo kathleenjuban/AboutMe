@@ -10,7 +10,7 @@
 
 ## About Me
 
-:blue_heart: Nickname: Kat.
+:blue_heart: Nickname: Kat
 <br/>🔭 Graduating IT Programming Analyst Student at NBCC
 <br/> ⚡ Certified Information Systems Auditor (CISA)
 <br/>🌍 Saint John, New Brunswick, Canada
