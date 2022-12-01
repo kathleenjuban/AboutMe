@@ -16,9 +16,9 @@
 <br/>🌍 Saint John, New Brunswick, Canada
 <br/>🌱 "Never lose the sense of wonder."
 <br/>🧱 INTP
-<br/> :superhero_man: I compete with myself.
+<br/> :superhero_man: I compete with myself. Sharpening my skills on SQL and Data Analysis.
 <br/> :sparkling_heart: Coldplay | Taylor Swift
-<br/>🎵 Worship | Yurima | Acoustic | Pop | Mellow Rock.
+<br/>🎵 Worship | Yurima | Acoustic | Pop | Mellow Rock
 <br/>📫 Reach me at <a href="https://www.linkedin.com/in/kathleenjuban" alt="My Linkedin Profile"> Linkedin </a>.
 
 
