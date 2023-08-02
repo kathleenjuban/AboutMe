@@ -9,14 +9,14 @@
 ## About Me
 
 :blue_heart: Nickname: Kat
-<br/>🔭 Graduating IT Programming Analyst Student at NBCC
+<br/>🔭 NBCC IT Programmer Analyst Graduate (Honours)
 <br/> ⚡ Certified Information Systems Auditor (CISA)
 <br/>🌍 Saint John, New Brunswick, Canada
 <br/>🌱 "Never lose the sense of wonder."
 <br/>🧱 INTP
-<br/> :superhero_man: I compete with myself. Sharpening my skills on SQL and Data Analysis.
+<br/> :superhero_man: I compete with myself. Sharpening my skills in SQL and Data Analysis.
 <br/> :sparkling_heart: Coldplay | Taylor Swift
-<br/>🎵 Worship | Yurima | Acoustic | Pop | Mellow Rock
+<br/>🎵 Worship | Yiruma | Acoustic | Pop | Mellow Rock
 <br/>📫 Reach me at <a href="https://www.linkedin.com/in/kathleenjuban" alt="My Linkedin Profile"> Linkedin </a>.
 
 
